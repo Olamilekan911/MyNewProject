@@ -3,7 +3,7 @@ import Home from './assets/pages/Home'
 
 const App = () => {
   return (
-    <Home/>
+  <section id="home">   </section>
   )
 }
 
